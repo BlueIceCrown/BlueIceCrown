@@ -4,6 +4,8 @@ I'm a developer who likes Computer Science. I like to code, and learn new things
 
 I mainly work on Minecraft Bedrock projects, backend systems, and server infrastructure.
 
+---
+
 ## Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,sqlite,discordjs,vscode,premiere)](https://skillicons.dev)
@@ -29,11 +31,15 @@ I mainly work on Minecraft Bedrock projects, backend systems, and server infrast
 | **2025** | 🟪 Expansion | Expanded the server with more advanced scripted systems, custom gameplay mechanics, and backend features. |
 | **2026** | 🟥 Discord/SQLite Integration | Upgrading Cosier beyond storing data along just the world, Using **SQLite** for external databasing, and migrating the entire code from **Javascript** to **Typescript** |
 
+---
+
 ## Beyond Scripting
-<p align="center">
+<p align="left">
   <img src="./assets/ytpfp.jpg" width="100" alt="YT Logo">
 </p>
-* I have a YouTube channel with over 1000 subscribers that I've had since I was eight. I occasionally post on there when I feel like it.
+* I have a YouTube channel with over 1000 subscribers that I've had since I was 8. I occasionally post on there when I feel like it.
+
+---
 
 # Socials
 
