@@ -31,11 +31,12 @@ I mainly work on Minecraft Bedrock projects, backend systems, and server infrast
 
 ## Beyond Scripting
 <p align="center">
-  <img src="./assets/ytpfp.png" width="700" alt="YT Logo">
+  <img src="./assets/ytpfp.jpg" width="700" alt="YT Logo">
 </p>
 * I have a YouTube channel with over 1000 subscribers that I've had since I was eight. I occasionally post on there when I feel like it.
 
-** Socials
+# Socials
+
 [![YouTube](https://img.shields.io/badge/YouTube-BlueIceCrown-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@BlueIceCrown)
 [![GitHub](https://img.shields.io/badge/GitHub-BlueIceCrown-181717?style=flat&logo=github&logoColor=white)](https://github.com/BlueIceCrown)
 ![Discord](https://img.shields.io/badge/Discord-blueicecrown-5865F2?logo=discord&logoColor=white)
