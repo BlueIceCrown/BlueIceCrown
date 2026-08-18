@@ -33,6 +33,4 @@ I mainly work on Minecraft Bedrock projects, backend systems, and server infrast
 
 * I primarily have a YouTube channel with over 1000 subscribers that I've had since I was eight. I occasionally post on there when I feel like it.
 
-** For contact:
-
-![Discord](https://img.shields.io/badge/Discord-blueicecrown-5865F2?logo=discord&logoColor=white)
+** For contact: ![Discord](https://img.shields.io/badge/Discord-blueicecrown-5865F2?logo=discord&logoColor=white)
