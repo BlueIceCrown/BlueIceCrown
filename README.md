@@ -1,6 +1,6 @@
 # Yo, I'm BlueIceCrown 🇰🇪
 
-I'm a developer with a passion for Computer Science. I like to code, and learn new things.
+I'm a developer who likes Computer Science. I like to code, and learn new things.
 
 I mainly work on Minecraft Bedrock projects, backend systems, and server infrastructure.
 
