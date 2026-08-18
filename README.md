@@ -6,7 +6,7 @@ I mainly work on Minecraft Bedrock projects, backend systems, and server infrast
 
 ## Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,sqlite,docker,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,sqlite,discordjs,vscode,premiere)](https://skillicons.dev)
 
 ## Current Projects/Hobbies
 
@@ -30,8 +30,12 @@ I mainly work on Minecraft Bedrock projects, backend systems, and server infrast
 | **2026** | 🟥 Discord/SQLite Integration | Upgrading Cosier beyond storing data along just the world, Using **SQLite** for external databasing, and migrating the entire code from **Javascript** to **Typescript** |
 
 ## Beyond Scripting
+<p align="center">
+  <img src="./assets/ytpfp.png" width="700" alt="YT Logo">
+</p>
+* I have a YouTube channel with over 1000 subscribers that I've had since I was eight. I occasionally post on there when I feel like it.
 
-* I primarily have a YouTube channel with over 1000 subscribers that I've had since I was eight. I occasionally post on there when I feel like it.
-
-** For contact:
+** Socials
+[![YouTube](https://img.shields.io/badge/YouTube-BlueIceCrown-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@BlueIceCrown)
+[![GitHub](https://img.shields.io/badge/GitHub-BlueIceCrown-181717?style=flat&logo=github&logoColor=white)](https://github.com/BlueIceCrown)
 ![Discord](https://img.shields.io/badge/Discord-blueicecrown-5865F2?logo=discord&logoColor=white)
