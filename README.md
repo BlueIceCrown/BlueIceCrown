@@ -31,7 +31,7 @@ I mainly work on Minecraft Bedrock projects, backend systems, and server infrast
 
 ## Beyond Scripting
 <p align="center">
-  <img src="./assets/ytpfp.jpg" width="700" alt="YT Logo">
+  <img src="./assets/ytpfp.jpg" width="100" alt="YT Logo">
 </p>
 * I have a YouTube channel with over 1000 subscribers that I've had since I was eight. I occasionally post on there when I feel like it.
 
