@@ -17,7 +17,7 @@ I mainly work on Minecraft Bedrock projects, backend systems, and server infrast
 </p>
 
 <p align="center">
-  A Minecraft Bedrock KitPvP server built with Script API, Hosted on Bedrock Dedicated Server (BDS)
+  A Minecraft Bedrock KitPvP server built with Script API, hosted on "Bedrock Dedicated Server" software. (BDS)
 </p>
 
 > With development starting in 2023, Cosier KitPVP has transformed into one of my more passionate projects, Starting as a realm with a very niche and small community while being managed by 14 y/o myself and some close colleagues.
