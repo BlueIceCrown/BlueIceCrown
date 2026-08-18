@@ -13,7 +13,7 @@ I mainly work on Minecraft Bedrock projects, backend systems, and server infrast
 <h2 align="center">Cosier KitPVP</h2>
 
 <p align="center">
-  <img src="./assets/cosier.png" width="200" alt="Cosier KitPVP Logo">
+  <img src="./assets/cosier.png" width="700" alt="Cosier KitPVP Logo">
 </p>
 
 <p align="center">
