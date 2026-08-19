@@ -1,6 +1,6 @@
 # Yo, I'm BlueIceCrown 🇰🇪
 
-I'm a developer who likes Computer Science. I like to code, and learn new things.
+I'm a developer from the United States who likes Computer Science. I like to code, and learn new things.
 
 I mainly work on Minecraft Bedrock projects, backend systems, and server infrastructure.
 
@@ -22,14 +22,14 @@ I mainly work on Minecraft Bedrock projects, backend systems, and server infrast
 
 > With development starting in 2023, Cosier KitPVP has transformed into one of my more passionate projects, Starting as a realm with a very niche and small community while being managed by 14 y/o myself and some close colleagues.
 
-## 📜 Cosier Development Timeline
+## Cosier Development Timeline
 
 | Year | Era | What Changed |
 | :---: | --- | --- |
-| **2023** | 🟩 The Beginning | Cosier KitPVP began, built primarily using **Minecraft command blocks**. |
+| **2023** | 🟩 The Beginning | Cosier KitPVP began as a realm, built primarily using **Minecraft command blocks**. |
 | **2024** | 🟦 My Introduction to Scripting | Started learning the **Minecraft Bedrock Script API** and moved systems from command blocks to **JavaScript**. |
 | **2025** | 🟪 Expansion | Expanded the server with more advanced scripted systems, custom gameplay mechanics, and backend features. |
-| **2026** | 🟥 Discord/SQLite Integration | Upgrading Cosier beyond storing data along just the world, Using **SQLite** for external databasing, and migrating the entire code from **Javascript** to **Typescript** |
+| **2026** | 🟥 Discord/SQLite Integration | Upgrading Cosier beyond storing data along just the world, Using **SQLite** for external databasing, and migrating the entire code from **JavaScript** to **TypeScript** |
 
 ---
 
