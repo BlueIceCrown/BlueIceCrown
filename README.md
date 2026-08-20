@@ -9,7 +9,7 @@ I mainly work on Minecraft Bedrock projects, backend systems, and server infrast
 # Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,sqlite,docker,vscode,premiere" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,sqlite,vscode,premiere" />
 </p>
 
 # Current Projects/Hobbies
