@@ -1,4 +1,4 @@
-# Yo, I'm BlueIceCrown 🇰🇪
+## Yo, I'm BlueIceCrown 🇰🇪
 
 I'm a developer from the United States who likes Computer Science. I like to code, and learn new things.
 
@@ -6,11 +6,13 @@ I mainly work on Minecraft Bedrock projects, backend systems, and server infrast
 
 ---
 
-## Languages & Tools
+# Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,sqlite,discordjs,vscode,premiere)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,go,sqlite,git,docker,linux,vscode" />
+</p>
 
-## Current Projects/Hobbies
+# Current Projects/Hobbies
 
 <p align="center">
   <img src="./assets/cosier.png" width="700" alt="Cosier KitPVP Logo">
@@ -22,7 +24,7 @@ I mainly work on Minecraft Bedrock projects, backend systems, and server infrast
 
 > With development starting in 2023, Cosier KitPVP has transformed into one of my more passionate projects, Starting as a realm with a very niche and small community while being managed by 14 y/o myself and some close colleagues.
 
-## Cosier Development Timeline
+# Cosier Development Timeline
 
 | Year | Era | What Changed |
 | :---: | --- | --- |
@@ -33,7 +35,7 @@ I mainly work on Minecraft Bedrock projects, backend systems, and server infrast
 
 ---
 
-## Beyond Scripting
+# Beyond Scripting
 <p align="left">
   <img src="./assets/ytpfp.jpg" width="100" alt="YT Logo">
 </p>
